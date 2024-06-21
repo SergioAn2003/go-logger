@@ -1,0 +1,14 @@
+bin
+coverage.*
+
+**.env
+!**.example.env
+!.stub.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea
+.vscode
